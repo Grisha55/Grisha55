@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Gregory Vinyar
+#### I am IOS Developer
+![My project-1](https://user-images.githubusercontent.com/71207368/183850553-0efd4c1f-1d40-4143-8f70-3ed4358ff23d.png)
 
-<!--
-**Grisha55/Grisha55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gregory from Russia, and I do IOS development. I really enjoy learning new information and languages like Flutter. I also enjoy gym and other sport activities. 
 
-Here are some ideas to get you started:
+Skills: Swift / Networking / Core Data / GCD /  Realm / Firebase / Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my knowledge 
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about Anything 
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact: In dreams i solve algorithms 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Grisha55)  
+
+
