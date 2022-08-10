@@ -7,7 +7,6 @@ I'm Gregory from Russia, and I do IOS development. I really enjoy learning new i
 Skills: Swift / Networking / Core Data / GCD /  Realm / Firebase / Git
 
 - 🔭 I’m currently working on improving my knowledge 
-- 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: In dreams i solve algorithms 
