@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grishavinyar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grishavinyar&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Grisha55&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grisha55&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 - ✅ 166+ problems solved  
 - ⏱️ Daily challenge: never skipped!  
 - 💪 Favorite topics: Dynamic Programming, Graphs, Trees  
-- 🧩 Check out my Swift solutions: [SwiftLeetCode repo](https://github.com/grishavinyar/SwiftLeetCode)
+- 🧩 Check out my Swift solutions: [SwiftLeetCode repo](https://github.com/Grisha55/SwiftLeetCode)
 
 ---
 
